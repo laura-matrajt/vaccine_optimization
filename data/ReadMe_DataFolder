@@ -1,0 +1,3 @@
+#DATA
+This folder contains the data used in the paper, which was all publicly available. The only thing that we did to the data was to create consistent matrices, according to the procedure outlined in the section "Symmetric matrices" here:
+https://cran.r-project.org/web/packages/socialmixr/vignettes/introduction.html
